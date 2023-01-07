@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productname": "cherry",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 78,
+      "comment": "good",
+      "date": "2022-12-25T16:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productname": "apples",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 111,
+      "comment": "very fresh ",
+      "date": "2022-12-29T16:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productname": "Dragon Fruit",
+      "category": "Vegetables",
+      "freshness": "Used",
+      "price": 45,
+      "comment": "good",
+      "date": "2022-12-28T16:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productname": "Potatoes",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 90,
+      "comment": "nice",
+      "date": "2022-12-25T16:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productname": "light",
+      "category": "Electronics",
+      "freshness": "Used",
+      "price": 95,
+      "comment": "good",
+      "date": "2022-12-26T16:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productname": "Fan",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 500,
+      "comment": "Good",
+      "date": "2023-01-09T16:00:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
